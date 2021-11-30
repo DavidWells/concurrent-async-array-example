@@ -1,6 +1,6 @@
 # Fast async array operations
 
-via this [tweet](https://twitter.com/theKashey/status/1465510988942221313)
+via this [tweet](https://twitter.com/theKashey/status/1465510988942221313). `lfi` makes things fast
 
 
 ```js
